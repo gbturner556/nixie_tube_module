@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-11-12T04:30:14Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "nixie_test_module"
+        },
+        "Owner": "Gavin Turner <gbturner@uvm.edu>",
+        "Size": {
+            "X": 60.63,
+            "Y": 39.36
+        }
+    }
+}

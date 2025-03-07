@@ -1,0 +1,8 @@
+Partlist exported from C:/Users/gbtur/Documents/EAGLE/projects/nixie_clock_project/nixie_test_module.sch at 11/11/2021 11:30 PM
+
+Qty Value   Device       Package Parts Description                           POPULARITY SPICEPREFIX
+1           JP2W         JP2W    JP3   JUMPER                                4                     
+1           JP4E         JP4     JP2   JUMPER                                15                    
+1   22k     R-US_0207/10 0207/10 R1    RESISTOR, American symbol             36         R          
+1   IN-2OLD IN-2OLD      IN-8    N1    IN-2: tiny numeric topview nixie tube                       
+1   K155ID1 K155ID1      DIL16   U$1                                                               
